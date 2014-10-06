@@ -1,4 +1,5 @@
 {
+  "name": "hapi-heroku-https",
   "version": "0.0.1",
   "description": "Enforce https on heroku apps",
   "url": "https://github.com/grahamjenson/hapi-heroku-https",
