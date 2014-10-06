@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "description": "Enforce https on heroku apps",
+  "url": "https://github.com/grahamjenson/hapi-heroku-https",
+  "main": "index.coffee",
+  "keywords": [
+    "heroku",
+    "https"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grahamjenson/hapi-heroku-https"
+  },
+  "author": {
+    "name": "Graham Jenson",
+    "email": "grahamjenson@maori.geek.nz",
+    "url": "http://www.maori.geek.nz/"
+  },
+  "license": "MIT"
+}
