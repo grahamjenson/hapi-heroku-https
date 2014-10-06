@@ -13,7 +13,6 @@ HerokuSecure.register.attributes =
   name: 'hapi-heroku-https'
   version: '0.0.1'
 
-
 #AMD
 if (typeof define != 'undefined' && define.amd)
   define([], -> return HerokuSecure)
